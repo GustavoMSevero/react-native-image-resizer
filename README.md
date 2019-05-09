@@ -1,1 +1,1 @@
-# Virtual-Assistant 
+# React-Natvei image-resizer
