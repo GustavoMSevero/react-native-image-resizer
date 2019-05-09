@@ -1,1 +1,1 @@
-# React-Natvei image-resizer
+# React-Native image-resizer
