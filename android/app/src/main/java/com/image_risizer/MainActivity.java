@@ -12,4 +12,6 @@ public class MainActivity extends ReactActivity {
     protected String getMainComponentName() {
         return "image_risizer";
     }
+
+
 }

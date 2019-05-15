@@ -9,6 +9,7 @@
   "dependencies": {
     "react": "16.8.3",
     "react-native": "0.59.8",
+    "react-native-fs": "^2.13.3",
     "react-native-image-resizer": "^1.0.1"
   },
   "devDependencies": {
